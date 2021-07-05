@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# LinkedIn Clone
+## [Live Demo](https://linkedin-clone-656f5.web.app/)
+
+## Project Description
+
+The project features a minimal version of LinkedIn developed using React with the assistance of React Redux as the state management library. The deployed application has Google Login support using Firebase authentication. Further, the users can create and share posts featuring text and media. Image files are stored in Firebase storage whereas MongoDB features from Firebase Database allow CRUD operations for posts.
+
+# General React Guidelines
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
