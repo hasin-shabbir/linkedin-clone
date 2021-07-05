@@ -3,7 +3,7 @@
 
 ## Project Description
 
-The project features a minimal version of LinkedIn developed using React with the assistance of React Redux as the state management library. The deployed application has Google Login support using Firebase authentication. Further, the users can create and share posts featuring text and media. Image files are stored in Firebase storage whereas MongoDB features from Firebase Database allow CRUD operations for posts.
+The project features a minimal version of LinkedIn developed using React with the assistance of React Redux as the state management library. The deployed application has Google Login support using Firebase authentication. Further, the users can create and share posts featuring text and media. Image files are stored in Firebase storage whereas MongoDB features from Firebase Database allow CRUD operations for posts. The project makes use of 'styled-components' library for styling and responsiveness purposes.
 
 # General React Guidelines
 
